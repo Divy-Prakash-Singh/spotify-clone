@@ -1,5 +1,15 @@
 {
     "title":"No Copyright Songs",
-    "description":"Songs for you"
+    "description":"Songs for you",
+
+  
+  "songs": [
+    "Russian.mp3",
+    "Black-white.mp3",
+    "good.mp3",
+    "good2.mp3"
+
+  ]
+
 
 }

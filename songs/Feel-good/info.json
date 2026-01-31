@@ -1,5 +1,13 @@
 {
-    "title":"FEEL GOOD SONGS",
-    "description":"Songs for you"
-
+  "title": "Feel Good",
+  "description": "Happy and uplifting tracks",
+  "songs": [
+    "Finding-Her.mp3",
+    
+    "Jhol.mp3",
+    "Soni-Soni.mp3",
+    "Nadaaniyan.mp3",
+    "Pasoori.mp3",
+    "With-You.mp3"
+  ]
 }
